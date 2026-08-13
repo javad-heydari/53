@@ -1,11 +1,1 @@
-{
-  "name": "simple-landing-page",
-  "version": "1.0.0",
-  "description": "A simple landing page",
-  "main": "index.html",
-  "scripts": {
-    "start": "open index.html"
-  },
-  "author": "",
-  "license": "MIT"
-}
+{}
